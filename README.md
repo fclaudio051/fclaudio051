@@ -1,7 +1,7 @@
 # Who am I?
 
 ### 👋 Hi, my name is Cláudio
-### 👨‍💻 I am a systems analysis and development student
+### 👨‍💻 I am a systems analysis and development 
 ### 💻 Currently working on financial projects with friends developing capture pages, among other screens with web technologies
 ### 🌐 I am available for new opportunities for growth and learning
 
