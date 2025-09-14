@@ -36,11 +36,11 @@ Tenho experiência com **React.js, Next.js, TypeScript, TailwindCSS, Node.js e G
 
 ### 1️⃣ Calculadora de IMC
 **React + TypeScript** – Responsiva, boas práticas e publicada no GitHub Pages  
-[Ver Projeto](https://github.com/fclaudio051/CalculadoraIMC](https://fclaudio051.github.io/React-calc-imc/))
+[Ver Projeto](https://fclaudio051.github.io/React-calc-imc/)
 
 ### 2️⃣ Gerenciador de Contas Domésticas
 **Next.js + TailwindCSS** – Dashboard financeiro e controle de gastos  
-[Ver Projeto](https://github.com/fclaudio051/GerenciadorContas](https://meu-controle-financeiro-frontend.onrender.com/))
+[Ver Projeto](https://meu-controle-financeiro-frontend.onrender.com/)
 
 ### 3️⃣ ChatGPT Projects
 **React + OpenAI API** – Aplicações com IA generativa  
