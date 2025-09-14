@@ -44,7 +44,7 @@ Tenho experiência com **React.js, Next.js, TypeScript, TailwindCSS, Node.js e G
 
 ### 3️⃣ ChatGPT Projects
 **React + OpenAI API** – Aplicações com IA generativa  
-[Ver Projeto](https://github.com/fclaudio051/ChatGPT-Projects)
+[Ver Projeto](https://github.com/fclaudio051/chatgpt-clone.git)
 
 ---
 
